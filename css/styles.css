@@ -10,3 +10,18 @@
     font-family: 'Grandstander', cursive;
     text-align: center;
 }
+.sectiontwo {
+    height: 50vh;
+}
+.about_us {
+    font-family: 'Grandstander', cursive;
+    text-align: center;
+}
+.content {
+    align-items: center;
+    text-align: center;
+    font-family: 'Roboto Mono', monospace;
+}
+.about-pic {
+    align-items: center;
+}
