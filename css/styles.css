@@ -1,0 +1,12 @@
+.intro {
+    background: url(../images/background1.jpg);
+    background-repeat: no-repeat;
+    background-size: cover;
+    height: 100vh;
+    font-family: 'Alata', sans-serif;
+    color: white;
+}
+.heading {
+    font-family: 'Grandstander', cursive;
+    text-align: center;
+}
