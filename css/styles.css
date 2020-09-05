@@ -25,3 +25,13 @@
 .about-pic {
     align-items: center;
 }
+.sectionthree {
+    background: url(../images/backgorund2.jpg);
+    height: 45vh;
+}
+.menu {
+    color: white;
+    font-family: 'Grandstander', cursive;
+    text-align: center;
+
+}
